@@ -1,0 +1,14 @@
+torch==2.5.0+cu124
+torchaudio==2.5.0+cu124
+torchvision==0.20.0+cu124
+paddlepaddle_gpu==2.6.2
+paddleocr==2.9.1
+ultralytics
+pandas
+opencv-python
+opencv-python-headless
+opencv-contrib-python
+numpy
+pillow
+PyJWT
+python-socketio
