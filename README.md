@@ -1,5 +1,11 @@
 Testes com WSL UBUNTU 24.04
 
+# Instalando algumas dependencias de desenvolvimento basicas do python
+apt-get install --no-install-recommends make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+# Instalando python3
+sudo apt install python3 python3-pip ipython3
+
 # Instalando drivers NVIDIA
 apt install nvidia-utils-550-server -y
 
